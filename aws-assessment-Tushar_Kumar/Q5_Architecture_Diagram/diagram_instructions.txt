@@ -1,0 +1,10 @@
+Create a diagram in draw.io including:
+- ALB
+- Auto Scaling Group
+- Public/Private subnets
+- RDS/Aurora
+- ElastiCache (Redis)
+- Security Groups / NACLs
+- CloudWatch/Logs/WAF (optional)
+
+Export the diagram as PNG and include here before submission.
